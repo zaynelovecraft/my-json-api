@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Burger Supremeeeeeeee",
+    "name": "Burger Supreme",
     "price": 8.99
   },
   {
     "id": 2,
-    "name": "Fries Largesssssssss",
+    "name": "Fries Large",
     "price": 2.99
   },
     {
     "id": 23,
     "name": "xxxxxx",
-    "price": 2.999999999999
+    "price": 2.9
   }
 ]
