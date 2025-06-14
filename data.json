@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Burger Supreme",
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "name": "Fries Large",
+    "price": 2.99
+  }
+]
